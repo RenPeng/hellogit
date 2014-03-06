@@ -7,3 +7,4 @@ for root,dir,file in os.walk('/data/soft'):
 		a = (root+sep+i)
 		print a
         print " on master"
+        print "iss33"
